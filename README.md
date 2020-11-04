@@ -1,4 +1,4 @@
-                                                           About the Repository
+                                                  About the Repository
 1.HR Analytics : This is an analytics based on the performances of the employees in a company.Based on the analysis,the HR can predict which all employees got     promoted
 
 2.Image to speech conversion: This involves extracting text from an image using Optical Character Recognition and converting the texts into speech format.Also the text are translated into different languages using google trans
